@@ -23,3 +23,22 @@ It serves as a collection for learning, practice, project showcase and real-worl
     interface features.
 
 ------------------------------------------------------------------------
+
+## 🚀 Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+
+------------------------------------------------------------------------
+
+## 🎯 Purpose
+
+This repository is built for:
+- Academic projects  
+- Web development practice  
+- Portfolio showcase  
+- Real-world website implementation  
+
+------------------------------------------------------------------------
