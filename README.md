@@ -7,38 +7,60 @@
 ## 📌 About This Repository
 
 This repository contains multiple website development projects organized in one place.
-It serves as a collection for learning, practice, project showcase and real-world implementation examples.
+It serves as a collection for learning, frontend-backend practice and real-world web application development.
 
 ### ✅ Included Projects
 
--   **TechZone-Online-Shop-Management**\
-    An e-commerce style online shop management system including product
-    and cart features.
+- **TechZone-Online-Shop-Management**  
+  An e-commerce style online shop management system with product and cart features.
 
--   **Electricity-Bill-Management**\
-    A web-based electricity bill management and calculation system.
+- **Electricity-Bill-Management**  
+  A web-based electricity bill calculation and management system.
 
--   **QuickBite-Online-Food-Ordering-System**\
-    An online food ordering system with menu, ordering flow and user
-    interface features.
+- **QuickBite-Online-Food-Ordering-System**  
+  An online food ordering system with menu browsing and ordering functionality.
 
 ------------------------------------------------------------------------
 
-## 🚀 Technologies Used
+<table align="center" width="100%">
+<tr>
+
+<td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
+
+<h2>🚀 Tech Stack</h2>
 
 - HTML  
 - CSS  
 - JavaScript  
-- Bootstrap  
+- PHP / Backend Logic  
+- MySQL / Database  
 
-------------------------------------------------------------------------
+</td>
 
-## 🎯 Purpose
+<td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-This repository is built for:
-- Academic projects  
-- Web development practice  
+<h2>🌐 Key Features</h2>
+
+- Responsive UI  
+- User Authentication  
+- CRUD Operations  
+- Database Integration  
+- Dynamic Web Pages  
+
+</td>
+
+<td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
+
+<h2>🎯 Purpose</h2>
+
+- Academic practice  
+- Web development learning  
 - Portfolio showcase  
-- Real-world website implementation  
+- Real-world web solutions  
+
+</td>
+
+</tr>
+</table>
 
 ------------------------------------------------------------------------
