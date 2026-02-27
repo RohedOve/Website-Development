@@ -7,7 +7,7 @@
 ## 📌 About This Repository
 
 This repository contains multiple website development projects organized in one place.
-It serves as a collection for learning, practice, project showcase, and real-world implementation examples.
+It serves as a collection for learning, practice, project showcase and real-world implementation examples.
 
 ### ✅ Included Projects
 
