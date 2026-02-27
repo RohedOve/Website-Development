@@ -19,7 +19,7 @@ It serves as a collection for learning, practice, project showcase and real-worl
     A web-based electricity bill management and calculation system.
 
 -   **QuickBite-Online-Food-Ordering-System**\
-    An online food ordering system with menu, ordering flow, and user
+    An online food ordering system with menu, ordering flow and user
     interface features.
 
 ------------------------------------------------------------------------
