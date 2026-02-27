@@ -54,7 +54,7 @@ It serves as a collection for learning, frontend-backend practice and real-world
 <h2>🎯 Purpose</h2>
 
 - Academic practice  
-- Web development learning  
+- Web dev learning  
 - Portfolio showcase  
 - Real-world web solutions  
 
