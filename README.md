@@ -1,24 +1,6 @@
-```{=html}
 <p align="center">
-```
-`<img src="Website-Development.jpg" alt="Website Development Banner" width="100%"/>`{=html}
-```{=html}
+  <img src="Website-Development.jpg" width="100%">
 </p>
-```
-```{=html}
-<h1 align="center">
-```
-Website-Development
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-A collection of website development projects & practice builds.
-```{=html}
-</p>
-```
 
 ------------------------------------------------------------------------
 
