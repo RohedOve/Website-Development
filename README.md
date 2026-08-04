@@ -20,7 +20,7 @@ It serves as a collection for learning, frontend-backend practice and real-world
 - **Electricity-Bill-Management**  
   A web-based electricity bill calculation and management system.
 
-- **QuickBite-Online-Food-Ordering-System**  
+- **QuickBite-Food-Ordering-System**  
   An online food ordering system with menu browsing and ordering functionality.
 
 ------------------------------------------------------------------------
