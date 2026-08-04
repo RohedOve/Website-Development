@@ -14,6 +14,9 @@ It serves as a collection for learning, frontend-backend practice and real-world
 - **TechZone-Online-Shop-Management**  
   An e-commerce style online shop management system with product and cart features.
 
+- **Dippy-Fashion-Online-Store**  
+  An e-commerce style clothing store website with admin panel and bilingual support.
+
 - **Electricity-Bill-Management**  
   A web-based electricity bill calculation and management system.
 
